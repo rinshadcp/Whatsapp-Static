@@ -1,0 +1,233 @@
+.header{
+    width: 100%;
+    height: 91px;
+    background-color: #128c7e;
+}
+.img{
+    padding-left: 150px;
+    padding-top: 24px;
+    float: left;
+}
+.web{
+    color: #FFFFFF;
+    padding-left: 105px;
+    padding-top: 35px;
+    font-size: 15px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    float: left;
+}
+.header-text{
+    color: #FFFFFF;
+    padding-left: 55px;
+    padding-top: 35px;
+    font-size: 15px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    float: left;
+}
+.globe{
+    margin-left: 40px;
+    margin-top: 35px;
+}
+.text{
+    font-size: 33px;
+    color: black;
+    padding-top: 225px;
+    margin-left: 260px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    float: left;
+}
+.dim-para{
+    color: #5E5E5E;
+}
+.img1{
+    width: 305px;
+    height: 560px;
+    margin-left: 80px;
+    margin-top: 150px;
+}
+.img2{
+    width: 360px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 100px;
+    float: left;    
+}
+.hovering-effect{
+    text-decoration: none;
+    color: #1CB39B;
+}
+.hovering-effect:hover{
+    text-decoration: underline;
+    color: #1CB39B;
+    cursor: pointer;
+}
+.para{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    margin-top: 334px;
+    margin-left: 260px;
+    color: black;
+}
+.logo{
+    padding-top: 30px;
+    line-height: 40px;
+    color: #1CB39B;
+    float: left;
+}
+.arrow{
+    transform: rotate(180deg);
+}
+.arrow1{
+    transform: rotate(180deg);
+    color: red;
+}
+.business{
+    background-color: #D8E8EA;
+    width: 49%;
+    height: 870px;
+    margin-top: 65px;
+    float: left;
+}
+.default-sec{
+    background-color: #E7F0E4;
+    float: left;
+    width: 49%;
+    height: 870px;
+    margin-top: 65px;
+    margin-left: 27px;
+}
+.text-bottom-main{
+    padding-top: 75px;
+    margin-left: 125px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 34px;
+    font-weight: bolder;
+}
+.paragraph{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 1rem;
+    font-size: 18px;
+    line-height: 26px;
+}
+.w-web{
+    text-decoration: none;
+    color: #39b3ed;
+}
+.w-web:hover{
+    text-decoration: underline;
+    color: #39b3ed;
+}
+.second-paragraph{
+    text-align: center;
+    font-size: 18px;
+    line-height: 26px;
+}
+.main-text-img{
+    float: left;
+    height: 725px;
+    width: 50%;
+}
+.whatsapp-web-animation{
+    height: 350px;
+    width: 350px;
+}
+.vdo{
+    height: 365px;
+    width: 350px;
+    margin-top: 70px;
+    margin-left: 150px;
+}
+.main-body{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.end-to-end{
+    color: #5E5E5E;
+    font-weight: 700;
+    font-size: 16px;
+    float: left;
+    margin-left: 220px;
+    margin-top: 40px;
+}
+.sec-def{
+    margin-top: 10px;
+    margin-left: 170px;
+    font-size: 34px;
+    line-height: 44px;
+    font-weight: 700;
+    float: left;
+}
+.sentnce{
+    margin-top: 50px;
+    float: left;
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 70px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+}
+.final-main{
+    float: left;
+    font-weight: 500;
+    font-size: 16px;
+    margin-left: 573px;
+    margin-top: 50px;
+}
+.arrow-down {
+    margin-left: 10px;
+    margin-top: -10px;
+    float: left;
+    width: 0; 
+    height: 0; 
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 4px solid #FFFFFF;
+  }
+foot{
+    height: 200px;
+    width: 100%;
+    float: left;
+}
+.upper-foot{
+    margin-top: 80px;
+    background-color: #273443;
+    height: 350px;
+    width: 100%;
+    float: left;
+    color: #F0F4F9;
+}
+.lower-foot{
+    background-color: #1c1e21;
+    height: 65px;
+    width: 100%;
+    float: left;
+    color: #F0F4F9;
+}
+.first{
+    float: left;
+    padding-left: 150px;
+}
+.second{
+    float: left;
+    padding-left: 140px;
+}
+.third{
+    float: left;
+    padding-left: 140px;
+}
+.fourth{
+    float: left;
+    padding-left: 170px;
+}
+.footer-links{
+    font-size: 19px; 
+    font-weight: 400; 
+    cursor: pointer; 
+}
+.footer-links:hover{
+    text-decoration: underline;
+}
